@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oh yeah</string>
+    <string name="teeth">牙齒對郎造</string>
+    <string name="title">天峰回來到</string>
+    <string name="result">來！看掉幾顆：</string>
+    <string name="what">？</string>
+    <item name="dice_image" type="id" />
+</resources>
